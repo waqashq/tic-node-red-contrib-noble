@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      "node-red-contrib-noble",
+      "/root/.node-red"
+    ]
+  ],
+  "_from": "node-red-contrib-noble@latest",
+  "_id": "node-red-contrib-noble@0.3.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/node-red-contrib-noble",
+  "_nodeVersion": "4.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/node-red-contrib-noble-0.3.0.tgz_1464778401572_0.30617751320824027"
+  },
+  "_npmUser": {
+    "email": "carlos.pedrinaci@open.ac.uk",
+    "name": "cpedrinaci"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "node-red-contrib-noble",
+    "raw": "node-red-contrib-noble",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-noble/-/node-red-contrib-noble-0.3.0.tgz",
+  "_shasum": "2d17136cca8571967504eca86f080b81578dee5f",
+  "_shrinkwrap": null,
+  "_spec": "node-red-contrib-noble",
+  "_where": "/root/.node-red",
+  "author": {
+    "email": "carlos.pedrinaci@open.ac.uk",
+    "name": "Carlos Pedrinaci",
+    "url": "http://www.cpedrinaci.net"
+  },
+  "bugs": {
+    "url": "https://github.com/kmi/node-red-contrib-noble/issues"
+  },
+  "contributors": [
+    {
+      "email": "charalampos.doukas@create-net.org",
+      "name": "Charalampos Doukas",
+      "url": "http://blog.buildinginternetofthings.com"
+    },
+    {
+      "email": "mike@mblackstock.com",
+      "name": "Mike Blackstock",
+      "url": "http://www.mblackstock.com"
+    }
+  ],
+  "dependencies": {
+    "noble": ">=0.2.7"
+  },
+  "description": "A Node-RED node that uses Noble to interact with BLEs",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2d17136cca8571967504eca86f080b81578dee5f",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-noble/-/node-red-contrib-noble-0.3.0.tgz"
+  },
+  "gitHead": "9f30d0928df8e4b432891820c6ff97d4c18f49f4",
+  "homepage": "https://github.com/kmi/node-red-contrib-noble#readme",
+  "keywords": [
+    "node-red",
+    "noble",
+    "ble",
+    "bluetooth",
+    "scan"
+  ],
+  "license": "Apache",
+  "maintainers": [
+    {
+      "email": "carlos.pedrinaci@open.ac.uk",
+      "name": "cpedrinaci"
+    }
+  ],
+  "name": "node-red-contrib-noble",
+  "node-red": {
+    "nodes": {
+      "noble": "noble/node-red-contrib-noble.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmi/node-red-contrib-noble.git"
+  },
+  "scripts": {},
+  "version": "0.3.0"
+}
